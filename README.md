@@ -1,3 +1,3 @@
-# Scrapy_CarbonTrading_V1_02
+# scrapy spider
 
-碳排放交易
+A crawler that use authentication code to identify logins in the middleware
